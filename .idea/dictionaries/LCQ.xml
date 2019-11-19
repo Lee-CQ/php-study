@@ -1,0 +1,24 @@
+<component name="ProjectDictionaryState">
+  <dictionary name="LCQ">
+    <words>
+      <w>fclose</w>
+      <w>fopen</w>
+      <w>gmdate</w>
+      <w>httpize</w>
+      <w>ireplace</w>
+      <w>leecq</w>
+      <w>microtime</w>
+      <w>mktime</w>
+      <w>setcookie</w>
+      <w>stripos</w>
+      <w>stristr</w>
+      <w>strlen</w>
+      <w>strpos</w>
+      <w>strrev</w>
+      <w>strrpos</w>
+      <w>strstr</w>
+      <w>strtr</w>
+      <w>unserialize</w>
+    </words>
+  </dictionary>
+</component>

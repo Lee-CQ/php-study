@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="903de146-f0fa-4b62-b96c-1c164db0c1c2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="true" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="phptest@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="D:/phpstudy_pro/Extensions/php/php7.3.4nts" />
+      <path value="D:/phpstudy_pro/Extensions/php/php7.3.4nts/ext" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1TTJJwKMkYL01UubPKZj2kTPVG0" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ToolWindowDatabase.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sup" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\code\php_study\sup" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\code\php_study\html" />
+      <recent name="C:\code\php_study\study" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script._set_ini.php">
+    <configuration name="02_array.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/php_study/study/02_array.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="dy1.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/php_study/dy1.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="tiaozhuan.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/php_study/tiaozhuan.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="_set_ini.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/_set_ini.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/test.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script._set_ini.php" />
+        <item itemvalue="JavaScript Debug.02_array.php" />
+        <item itemvalue="PHP Script.test.php" />
+        <item itemvalue="JavaScript Debug.tiaozhuan.php" />
+        <item itemvalue="JavaScript Debug.dy1.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="903de146-f0fa-4b62-b96c-1c164db0c1c2" name="Default Changelist" comment="" />
+      <created>1573478083690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573478083690</updated>
+      <workItem from="1573478086018" duration="1853000" />
+      <workItem from="1573528479392" duration="1021000" />
+      <workItem from="1573529523902" duration="1460000" />
+      <workItem from="1573530997134" duration="1136000" />
+      <workItem from="1573564908240" duration="6577000" />
+      <workItem from="1573571601229" duration="361000" />
+      <workItem from="1573571979160" duration="791000" />
+      <workItem from="1573609801637" duration="142000" />
+      <workItem from="1573609959516" duration="54000" />
+      <workItem from="1573610026256" duration="4989000" />
+      <workItem from="1573615032501" duration="167000" />
+      <workItem from="1573615214804" duration="503000" />
+      <workItem from="1573615831021" duration="36521000" />
+      <workItem from="1573695196145" duration="27850000" />
+      <workItem from="1573735772132" duration="30000" />
+      <workItem from="1573735815095" duration="26000" />
+      <workItem from="1573735859703" duration="19000" />
+      <workItem from="1573735891305" duration="24000" />
+      <workItem from="1573735926653" duration="270000" />
+      <workItem from="1573881294719" duration="1490000" />
+      <workItem from="1574080364869" duration="622000" />
+      <workItem from="1574141094804" duration="616000" />
+      <workItem from="1574169873039" duration="4794000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
